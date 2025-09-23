@@ -2,7 +2,7 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOOkoishi&layout=compact&count_private=true&theme=dracula)
+<figure><embed src="https://wakatime.com/share/@YOO_koishi/a12cbba2-bfa1-48df-bc72-15ede9786d66.svg"></embed></figure>
 
 
 ![YOO_koishi's github stats](https://github-readme-stats.vercel.app/api?username=YOOkoishi&count_private=true&theme=dracula)
